@@ -1,0 +1,8 @@
+{ 
+    "C_Cpp.default.includePath": ["/sgdk/SGDK/inc",
+    "/sgdk/SGDK/res",
+    "res",
+    "inc"
+],
+"C_Cpp.errorSquiggles": "disabled"
+}
